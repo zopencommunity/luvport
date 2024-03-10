@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: luv-version /LUV_VERSION="(.*)"/ https://github.com/luvit/luv.git|semver:*
-# LUV_VERSION="V.R.M" # Specify a stable release
+# LUV_VERSION="1.6.1" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${LUV_VERSION}"
 export ZOPEN_STABLE_URL="https://github.com/luvit/luv.git"
 export ZOPEN_STABLE_DEPS="lua make zoslib cmake libuv luarocks"
